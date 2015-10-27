@@ -22,6 +22,7 @@ This is a list of tools or softwares that my system must have after fresh ubuntu
 10. ruby gems
 11. my custom commands [https://github.com/irahulsingh/my-custom-commands]
 12. git
+13. github electron
 
 # Programming Languages
 1. Ruby
@@ -30,3 +31,10 @@ This is a list of tools or softwares that my system must have after fresh ubuntu
 4. Nodejs
 5. Golang
 6. Java
+
+# Relational Databases
+1. MySql
+2. Postgresql
+
+# NoSQL
+1. MongoDB
