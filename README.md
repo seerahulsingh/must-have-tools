@@ -21,6 +21,7 @@ This is a list of tools or softwares that my system must have after fresh ubuntu
 9. bundler
 10. ruby gems
 11. my custom commands [https://github.com/irahulsingh/my-custom-commands]
+12. git
 
 # Programming Languages
 1. Ruby
