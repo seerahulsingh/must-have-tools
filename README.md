@@ -38,3 +38,4 @@ This is a list of tools or softwares that my system must have after fresh ubuntu
 
 # NoSQL
 1. MongoDB
+2. Redis [https://www.digitalocean.com/community/tutorials/how-to-install-and-use-redis]
