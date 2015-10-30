@@ -33,8 +33,8 @@ This is a list of tools or softwares that my system must have after fresh ubuntu
 6. Java
 
 # Relational Databases
-1. MySql
-2. Postgresql
+1. MySql [https://www.linode.com/docs/databases/mysql/how-to-install-mysql-on-ubuntu-14-04]
+2. Postgresql [https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04?utm_content=how-to-install-and-use-postgresql-on-ubuntu-14-04]
 
 # NoSQL
 1. MongoDB
