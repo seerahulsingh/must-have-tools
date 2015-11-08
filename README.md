@@ -6,6 +6,8 @@ This is a list of tools or softwares that my system must have after fresh ubuntu
 2. VLC media player
 3. Skype
 4. Virtual Box
+5. Dropbox
+6. Slack
 
 # Editor
 1. Sublime [http://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2-3]
@@ -32,7 +34,7 @@ This is a list of tools or softwares that my system must have after fresh ubuntu
 3. Perl
 4. Nodejs
 5. Golang
-6. Java
+6. Java (jdk7+) [install from ubuntu ppa] [http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html]
 
 # Relational Databases
 1. MySql [https://www.linode.com/docs/databases/mysql/how-to-install-mysql-on-ubuntu-14-04]
@@ -41,3 +43,20 @@ This is a list of tools or softwares that my system must have after fresh ubuntu
 # NoSQL
 1. MongoDB [https://docs.mongodb.org/manual/administration/install-on-linux/]
 2. Redis [https://www.digitalocean.com/community/tutorials/how-to-install-and-use-redis]
+
+# Webhook on localhost
+1. ngrok [https://ngrok.com/]
+2. ultrahook [http://www.ultrahook.com/]
+
+# Virtual Dev env
+1. Vagrant
+2. Docker
+
+# Mobile App Development
+1. Android Studio (require jdk7+, Linux KVM for emulator[https://help.ubuntu.com/community/KVM/Installation])
+2. Ionic
+3. Cordova
+
+# Other
+1. Google chrome webdriver
+
