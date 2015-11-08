@@ -1,6 +1,4 @@
-```
-This is a list of tools or softwares that my system must have after fresh ubuntu/linux installation
-```
+<b> This is a list of tools or softwares that my system must have after fresh ubuntu/linux installation. </b>
 
 ### Softwares
 1. Google Chrome
