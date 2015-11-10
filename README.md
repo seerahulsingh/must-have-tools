@@ -26,6 +26,7 @@
 11. my custom commands [https://github.com/irahulsingh/my-custom-commands]
 12. git
 13. github electron
+14. Optionaly 'guake' [http://guake-project.org/]
 
 ### Programming Languages
 1. Ruby
