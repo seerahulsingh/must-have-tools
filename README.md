@@ -7,6 +7,9 @@
 4. Virtual Box
 5. Dropbox
 6. Slack
+7. Gimp (Image Editor)
+8. FireFox Browser
+9. Springseed (Note taking software)
 
 ### Editor
 1. Sublime [http://askubuntu.com/questions/172698/how-do-i-install-sublime-text-2-3]
